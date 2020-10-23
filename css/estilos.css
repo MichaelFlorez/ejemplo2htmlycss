@@ -1,0 +1,25 @@
+body{
+    /*background-color: rgba(233, 241, 121, 0.904);*/
+    background-color: #ecf572
+}
+
+
+
+@font-face{
+    font-family: 'Terminator Two';
+    src: url('../fonts/Terminator\ Two.eot');
+    src: url('../fonts/Terminator\ Two.eot?#iefix') format(embedded-opentype),
+         url('../fonts/Terminator\ Two.woff') format('woff'),
+         url('../fonts/Terminator\ Two.ttf') format('truetype'),
+         url('../fonts/Terminator\ Two.svg#Terminator Two') format('svg');
+font-weight: normal;
+font-style: normal;
+
+}
+
+h1{
+    color: rgb(59, 35, 155);
+    font-size: 40px;
+    font-family: "Terminator Two";
+
+}
